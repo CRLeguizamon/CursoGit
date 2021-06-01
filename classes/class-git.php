@@ -16,5 +16,10 @@ class Coche {
         $this->color = $color;
         $this->modelo = $modelo;
     }
+    
+    
+   public function getVelocidad() {
+      return $this->velocidad; 
+   }
   
 }

@@ -12,7 +12,7 @@ and open the template in the editor.
         
     </head>
     <body>
-        
+        <?php include_once 'clases/class-git.php'; ?>
         <h1>Curso GIT</h1>
         <p>lorem ipsum dolor akismet spam</p>
         <?php
