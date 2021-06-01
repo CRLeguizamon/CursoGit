@@ -18,5 +18,15 @@ and open the template in the editor.
         <?php
        
         ?>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <h3>OTRO PARRAFO</h3>
     </body>
 </html>
