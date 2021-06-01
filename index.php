@@ -14,7 +14,7 @@ and open the template in the editor.
     <body>
         
         <h1>Curso GIT</h1>
-        <p>lorem ipsum dolor akismet</p>
+        <p>lorem ipsum dolor akismet spam</p>
         <?php
        
         ?>
